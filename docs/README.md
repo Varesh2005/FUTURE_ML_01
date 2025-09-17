@@ -72,7 +72,7 @@ The model provides a reliable monthly sales forecast for decision-making.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FUTURE_ML_01.git
+   git clone https://github.com/Varesh2005/FUTURE_ML_01.git
 2. Navigate into the project folder:
    cd FUTURE_ML_01/code
 
