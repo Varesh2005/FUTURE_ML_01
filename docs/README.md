@@ -63,9 +63,9 @@ The model provides a reliable monthly sales forecast for decision-making.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot 1](../dashboard/Dashboard_Screenshot1.png)
-![Dashboard Screenshot 2](../dashboard/Dashboard_Screenshot2.png)
-![Dashboard Screenshot 3](../dashboard/Dashboard_Screenshot3.png)
+![Dashboard Screenshot 1](../dashboard/SS1.png)
+![Dashboard Screenshot 2](../dashboard/SS2.png)
+![Dashboard Screenshot 3](../dashboard/SS3.png)
 
 ---
 
