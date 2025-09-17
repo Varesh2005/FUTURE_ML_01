@@ -33,22 +33,24 @@ The goal is to build an **AI-powered sales forecasting system** that predicts fu
 ---
 
 ## 📂 Project Structure
+```text
 FUTURE_ML_01/
 │
-├── code/ # Python forecasting scripts
-│ └── prophet_model.py
-│ └── requirements.txt
+├── code/                 # Python forecasting scripts
+│   ├── prophet_model.py
+│   └── requirements.txt
 │
-├── data/ # Datasets and forecast outputs
-│ └── Superstore.csv
-│ └── forecast_results.csv
+├── data/                 # Datasets and forecast outputs
+│   ├── Superstore.csv
+│   └── forecast_results.csv
 │
-├── dashboard/ # Power BI files
-│ └── Task1_Dashboard.pbix
-│ └── Dashboard_Screenshot.png
+├── dashboard/            # Power BI files
+│   ├── Task1_Dashboard.pbix
+│   └── Dashboard_Screenshot.png
 │
-├── docs/ # Documentation
-│ └── README.md
+├── docs/                 # Documentation
+│   └── README.md
+
 
 ---
 
